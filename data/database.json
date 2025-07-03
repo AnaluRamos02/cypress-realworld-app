@@ -74,6 +74,39 @@
       "balance": 49474,
       "createdAt": "2023-12-07T04:39:38.383Z",
       "modifiedAt": "2024-03-07T00:07:36.510Z"
+    },
+    {
+      "id": "aNI5eu19E",
+      "uuid": "61a5e205-2c44-41b8-b57f-62d97f973673",
+      "firstName": "Luiza",
+      "lastName": "Silva",
+      "username": "LuizaSilva",
+      "password": "$2a$10$YR/zlE7fk2dEm8hRDyMah.wgMBMOt02itw4X5VOoDA8qdZGcH2CUC",
+      "balance": 0,
+      "createdAt": "2025-07-03T03:35:51.848Z",
+      "modifiedAt": "2025-07-03T03:35:51.848Z"
+    },
+    {
+      "id": "PFZrW0Lbx",
+      "uuid": "bfc52b9f-56a1-4e0a-b715-ebd1f38d6cc1",
+      "firstName": "Luiza",
+      "lastName": "Silva",
+      "username": "LuizaSilva",
+      "password": "$2a$10$9LAKY0P/aEHZwqpeh6d.jewH0R0.6fJDqcWJjJHCekVtp1PAY1ly2",
+      "balance": 0,
+      "createdAt": "2025-07-03T03:36:47.911Z",
+      "modifiedAt": "2025-07-03T03:36:47.911Z"
+    },
+    {
+      "id": "34rFwFKJq",
+      "uuid": "e88a7b07-ac2f-489c-a8f0-9657512d83a6",
+      "firstName": "2555555555555",
+      "lastName": "dilb",
+      "username": "dbvfdsfbfdd",
+      "password": "$2a$10$dU1gj1ifNuUWwSyrBNC03uqihn4CrnVd9CHSqfLMvQmJM0vhCEAO.",
+      "balance": 0,
+      "createdAt": "2025-07-03T03:49:50.236Z",
+      "modifiedAt": "2025-07-03T03:49:50.236Z"
     }
   ],
   "contacts": [
